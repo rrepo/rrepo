@@ -22,20 +22,23 @@ This is still a **prototype**, but it’s fully functional and programmable with
 
 ---
 
-## 🧠 easy-mindmap - Lightweight Mindmap App in Vue
+## 🧠 Easy Mindmap
 
-![demo](https://raw.githubusercontent.com/rrepo/easy-mindmap/main/demo.gif)
+A lightweight and minimal mindmap rendering Vue application.  
+No recursion. No coordinate calculations. Just fast and clean mindmaps.
 
-A super-lightweight, fast mindmap rendering app built with Vue.  
-Unlike traditional mindmap libraries, it doesn't rely on recursive structures or coordinate-based layouts.
+![Easy Mindmap Demo](https://github.com/[YOUR_USERNAME]/easy-mindmap/blob/main/demo.gif)
 
-### Key Features:
-- Node creation, editing, deletion, and movement
-- Zoom in/out of the entire view
-- Flat object-array data structure for simplicity
-- All layout handled with HTML/CSS – no canvas or coordinate math
+🔧 **Features:**
+- Create / Edit / Move / Delete nodes
+- Zoom in/out of the entire map
+- Flat data structure (no recursion)
+- Fully HTML/CSS-based layout (no JS coordinate math)
 
-🔗 [Explore on GitHub](https://github.com/rrepo/easy-mindmap)
+🌿 **Why It’s Different:**  
+Unlike heavy mindmap libraries, this project avoids recursion and coordinate math entirely—keeping everything fast and minimal.
+
+📦 **Repo:** [easy-mindmap](https://github.com/[YOUR_USERNAME]/easy-mindmap)
 
 ---
 
