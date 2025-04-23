@@ -27,7 +27,7 @@ This is still a **prototype**, but it’s fully functional and programmable with
 A lightweight and minimal mindmap rendering Vue application.  
 No recursion. No coordinate calculations. Just fast and clean mindmaps.
 
-![Easy Mindmap Demo](https://github.com/[YOUR_USERNAME]/easy-mindmap/blob/main/demo.gif)
+![Easy Mindmap Demo](https://github.com/[YOUR_USERNAME]/easy-mindmap/blob/main/demo.gif](https://github.com/rrepo/easy-mindmap-renderer-demo/blob/main/demo.gif))
 
 🔧 **Features:**
 - Create / Edit / Move / Delete nodes
