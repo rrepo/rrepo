@@ -4,7 +4,7 @@ Hi, I'm **rrepo**, a developer passionate about building experimental hardware, 
 
 ---
 
-## 🎮 hand_game - Custom Keyboard Prototype
+## :keyboard:  hand_game - Custom Keyboard Prototype
 
 ![hand_game](https://i.imgur.com/8W6ofcq.jpeg)
 
