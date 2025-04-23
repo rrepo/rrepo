@@ -38,7 +38,7 @@ No recursion. No coordinate calculations. Just fast and clean mindmaps.
 🌿 **Why It’s Different:**  
 Unlike heavy mindmap libraries, this project avoids recursion and coordinate math entirely—keeping everything fast and minimal.
 
-📦 **Repo:** [easy-mindmap](https://github.com/[YOUR_USERNAME]/easy-mindmap)
+📦 **Repo:** [easy-mindmap](https://github.com/rrepo/easy-mindmap-renderer-demo)
 
 ---
 
